@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=我+是+一+个+业+余+代+码+爱+好+者;Second+line+of+text)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Crazy-A2)
