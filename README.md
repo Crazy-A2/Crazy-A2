@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Crazy-A2&theme=dark">
- <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Crazy-A2&hide=c&layout=compact&theme=radical">
+ <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Crazy-A2&hide=c&layout=pie&theme=radical">
  <img alt="My-used-languages" src="YOUR-DEFAULT-IMAGE">
 </picture>
 
