@@ -25,3 +25,6 @@ Here are some ideas to get you started:
  <img alt="My-used-languages" src="YOUR-DEFAULT-IMAGE">
 </picture>
 
+<picture>
+ <img src="https://github.com/Crazy-A2/Crazy-A2/blob/main/github-metrics.svg">
+</picture>
