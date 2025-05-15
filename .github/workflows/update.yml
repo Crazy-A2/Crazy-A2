@@ -21,5 +21,5 @@ jobs:
           plugin_code: yes
           plugin_code_languages: javascript, typescript, c++, rust
           plugin_languages: true
-          plugin_languages_ignored: c
+          plugin_languages_ignored: c, objective-c
           # plugin_languages_sections: []
