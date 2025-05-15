@@ -19,6 +19,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           config_timezone: Asia/Shanghai
           plugin_code: yes
+          plugin_code_lines: 128
           plugin_code_languages: javascript, typescript, c++, rust
           plugin_starlists: true
           # plugin_starlists_limit: 8
