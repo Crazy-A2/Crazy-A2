@@ -18,3 +18,5 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           config_timezone: Asia/Shanghai
+          plugin_code: yes
+          plugin_code_languages: javascript, typescript, c++, rust
