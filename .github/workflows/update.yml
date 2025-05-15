@@ -28,5 +28,5 @@ jobs:
           plugin_languages: true
           plugin_languages_indepth: true
           plugin_languages_details: percentage
-          plugin_languages_ignored: c, objective-c
+          plugin_languages_ignored: c, objective-c, tsx
           plugin_languages_sections: recently-used, most-used
