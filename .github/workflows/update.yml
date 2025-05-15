@@ -20,6 +20,10 @@ jobs:
           config_timezone: Asia/Shanghai
           plugin_code: yes
           plugin_code_languages: javascript, typescript, c++, rust
+          plugin_starlists: true
+          # plugin_starlists_limit: 8
+          # plugin_starlists_limit_repositories: 100
+          plugin_starlists_languages: true
           plugin_languages: true
           plugin_languages_ignored: c, objective-c
           # plugin_languages_sections: []
