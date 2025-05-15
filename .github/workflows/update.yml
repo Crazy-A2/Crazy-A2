@@ -26,5 +26,7 @@ jobs:
           # plugin_starlists_limit_repositories: 100
           plugin_starlists_languages: true
           plugin_languages: true
+          plugin_languages_indepth: true
+          plugin_languages_details: percentage
           plugin_languages_ignored: c, objective-c
-          # plugin_languages_sections: []
+          plugin_languages_sections: recently-used, most-used
